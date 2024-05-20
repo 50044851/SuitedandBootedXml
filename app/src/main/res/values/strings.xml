@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">suited and booted</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="browse">Browse Stock</string>
+    <string name="request">Booking Request Form</string>
+    <string name="collection">Collection</string>
+    <string name="return_">Return</string>
+    <string name="confirmation">Booking Confirmation</string>
+    <string name="contact">Contact</string>
+    <string name="help">Help</string>
+    <string name="setting">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="login">Login Page</string>
+    <string name="login_button">Login</string>
+    <string name="username">Username:</string>
+    <string name="username_text">Username</string>
+    <string name="password">Password:</string>
+    <string name="password_text">Password</string>
+</resources>
